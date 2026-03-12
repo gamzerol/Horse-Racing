@@ -1,4 +1,4 @@
-import type { Horse } from './Horse'
+import type { Horse } from './horse'
 
 export interface RoundResult {
   position: number
